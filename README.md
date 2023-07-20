@@ -23,7 +23,7 @@ echo $page;
 ```
 
 Output:
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
